@@ -59,26 +59,9 @@ Revenue, profitability, and customer analytics on a **star-schema** model (5,200
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 💼 Experience
-
-**Machine Learning Member — Mars Rover Manipal** *(Sept 2025 – Jan 2026)*
-
-- Built Logistic Regression, SVM, KNN, and K-Means models from scratch in NumPy
-- Built preprocessing, scaling, and PCA pipelines; evaluated models with manual ROC-AUC
-
 ## 🎓 Education
 
 **B.Tech in Computer & Communication** — MIT Manipal (2024–2028)
-
-## 📊 GitHub Stats
-
-[![Alden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldeninho&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/aldeninho)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aldeninho&theme=shades-of-purple&hide_border=true)](https://gitstreak.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldeninho&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/aldeninho?tab=languages)
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aldeninho&theme=discord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/anolson/github-profile-trophy)
 
 ---
 
