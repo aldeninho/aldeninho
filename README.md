@@ -62,7 +62,3 @@ Revenue, profitability, and customer analytics on a **star-schema** model (5,200
 ## 🎓 Education
 
 **B.Tech in Computer & Communication** — MIT Manipal (2024–2028)
-
----
-
-[![Visitor count](https://visitcount.itsvg.in/api?id=aldeninho&icon=0&color=0)](https://visitcount.itsvg.in)
